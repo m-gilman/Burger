@@ -4,7 +4,7 @@
   "description": "A burger logger app with MySQL, Node, Express, Handlebars, and a homemade ORM!\\r This app follows the MVC (Model-View-Controller) design pattern. It uses Node and MySQL to query and route the data. It also uses Handlebars to generate the HTML.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "keywords": [
     "MySQL",
@@ -15,6 +15,11 @@
     "MVC",
     "Burgers"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-gilman/Burger"
+  },
+
   "author": "Melissa Gilman",
   "license": "ISC",
   "dependencies": {
