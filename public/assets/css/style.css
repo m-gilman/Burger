@@ -1,0 +1,27 @@
+ul {
+  background: black;
+  padding: 5px;
+  margin: 5px;
+
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: teal;
+  color: white;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
